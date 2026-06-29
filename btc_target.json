@@ -1,9 +1,9 @@
 {
-  "target": 59164.14,
-  "yes_ask": "0.4000",
-  "no_ask": "0.6100",
-  "ticker": "KXBTC15M-26JUN282045-45",
-  "event": "KXBTC15M-26JUN282045",
-  "close_time": "2026-06-29T00:45:00Z",
-  "timestamp": "2026-06-28 20:30:37 ET"
+  "target": 59245.98,
+  "yes_ask": "0.5500",
+  "no_ask": "0.4600",
+  "ticker": "KXBTC15M-26JUN282100-00",
+  "event": "KXBTC15M-26JUN282100",
+  "close_time": "2026-06-29T01:00:00Z",
+  "timestamp": "2026-06-28 20:45:43 ET"
 }
